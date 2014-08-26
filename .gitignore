@@ -8,6 +8,8 @@
 .\#*
 .bundle
 .riaktest
+.ruby-gemset
+.ruby-version
 .rvmrc
 .yardoc
 Gemfile*.lock
@@ -22,4 +24,3 @@ tmp/*
 tmtags
 vendor/erlang
 vendor/riak
-
